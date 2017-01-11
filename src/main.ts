@@ -1,5 +1,5 @@
-// main.ts
-import 'reflect-metadata';
+// import 'reflect-metadata';
+import 'core-js'; // include reflect & polyfill
 import 'zone.js';
 
 import {platformBrowserDynamic} from '@angular/platform-browser-dynamic';
