@@ -1,5 +1,6 @@
-# Hello-World
-Hello-world project for Angular 2 with webpack, example in this book “揭秘Angular 2”.
+### 注意：新版本（Angular 4 + Angular CLI）已迁移至新repo
+
+https://github.com/angular-programming/angular-hello-world
 
 ## Usage
 
